@@ -45,10 +45,8 @@
    ```bash
    git clone https://github.com/im-ignite/ignitebot.git
    cd ignitebot
-
-
-   OR YOU CAN DIRECTLY USE SETUP.BAT FILE
    ```
+   OR YOU CAN DIRECTLY  DOUBLE CLICK ON SETUP.BAT
 2. Install requirements :
    
    ```bash
@@ -63,8 +61,9 @@
 4. Run the bot :
    
    ```bash
-   python bot.py or setup.bat
+   python bot.py
     ```
+   OR YOU CAN DOUBLE CLICK ON SETUP.BAT
 ## ⚙️ Configuration Variables
 - BOT_TOKEN : Your Telegram Bot Token from @BotFather
 - ADMIN_IDS : Telegram user IDs of bot administrators (comma-separated for multiple admins)
