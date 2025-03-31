@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/150" alt="Ignite Logo" width="150" height="150">
+  <img src="![photo_6321265074945244839_c](https://github.com/user-attachments/assets/4e31464e-889c-4cdc-8728-c56b1843bf23)" alt="Ignite Logo" width="150" height="150">
 </p>
 
 <h1 align="center">
