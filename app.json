@@ -1,0 +1,17 @@
+{
+  "name": "Ignite Telegram Bot",
+  "description": "A feature-rich Telegram bot with QR code generation and admin management capabilities.",
+  "repository": "https://github.com/im-ignite/ignitebot",
+  "keywords": ["telegram", "bot", "python"],
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Your Telegram Bot Token from @BotFather",
+      "required": true
+    },
+    "ADMIN_IDS": {
+      "description": "Telegram user IDs of bot administrators (comma-separated for multiple admins)",
+      "required": true
+    }
+  },
+  "addons": []
+}

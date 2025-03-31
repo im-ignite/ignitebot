@@ -36,6 +36,9 @@
 
 ## 🛠️ Setup and Deployment
 
+### Deploy to Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/im-ignite/ignitebot)
+
 ### Prerequisites
 - **Python 3.10** or higher
 - **Telegram Bot Token** from [@BotFather](https://t.me/BotFather)
