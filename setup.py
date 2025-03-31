@@ -21,7 +21,8 @@ def check_requirements():
     required_packages = {
         'python-telegram-bot': '20.8',
         'qrcode': '7.4.2',
-        'pillow': '11.0.0'
+        'pillow': '11.0.0',
+        'python-dotenv': '1.0.1'
     }
     
     missing_packages = {}
