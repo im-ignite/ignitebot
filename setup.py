@@ -38,8 +38,8 @@ def create_venv():
 
 def install_requirements(missing_packages):
     logger.info("Installing missing requirements...")
-    pip_cmd = os.path.join(".venv", "Scripts" if platform.system() == "Windows" else "bin", "pip")
-    
+    pip_cmd = os.path.join(".venv", "Scripts", "pip")  # Corrected path separator
+
     try:
         # Install wheel first
         logger.info("Installing wheel package...")
@@ -95,4 +95,4 @@ def main():
         sys.exit(1)
 
 if __name__ == "__main__":
-    main() 
+    main()
